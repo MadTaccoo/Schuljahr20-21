@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bsp Lin/Bsp Lin.iml" filepath="$PROJECT_DIR$/Bsp Lin/Bsp Lin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project/Project.iml" filepath="$PROJECT_DIR$/Project/Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/Schuljahr 20-21.iml" filepath="$PROJECT_DIR$/Schuljahr 20-21.iml" />
     </modules>
   </component>
